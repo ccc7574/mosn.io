@@ -41,7 +41,7 @@ MOSN 已通过 Istio 1.4.6 的 `BookInfo` 测试，关于最新版 Istio 的支�
 ```bash
 $ brew cask install docker
 ```
-
+推荐使用 [Helm2.14.2](https://github.com/helm/helm/releases/tag/v2.14.2),Helm2.16+及3.X版本后续会支持
 #### 安装驱动
 
 ```bash
